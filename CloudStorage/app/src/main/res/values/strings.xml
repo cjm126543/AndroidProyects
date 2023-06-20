@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CloudStorage</string>
+    <string name="hint_user">E-mail o Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_button">Enviar código</string>
+    <string name="register_button">¡Registrate!</string>
+    <string name="nameTv">* Nombre:</string>
+    <string name="surname_1Tv">* Apellido 1:</string>
+    <string name="surname_2Tv">Apellido 2:</string>
+    <string name="mailTv">* E-mail:</string>
+    <string name="phoneTv">* Número de teléfono:</string>
+    <string name="passwordTv">* Contraseña:</string>
+    <string name="check_passTv">* Repita contraseña:</string>
+    <string name="register_submit_button">Darse de alta</string>
+    <string name="registerName">Nombre</string>
+    <string name="registerSurname1">Primer apellido</string>
+    <string name="registerSurname2">Segundo apellido</string>
+    <string name="registerMail">E-mail</string>
+    <string name="registerPhone">Teléfono</string>
+    <string name="registerPassword">Contraseña</string>
+    <string name="registerCheckPass">Repita contraseña</string>
+    <string name="register_cancelB">Cancelar</string>
+    <string name="pass_requirements"><n>Recuerde que la contraseña debe cumplir las siguientes condiciones:</n>
+        <n>- Debe tener al menos una longitud de 8 caracteres.</n>
+        <n>- Debe contener una mayúscula y una minúscula por lo menos.</n>
+        <n>- Debe contener al menos un número.</n>
+        <n>- Debe contener al menos un carácter de los listados (@, #, $, %, ^, &amp;, +, =).</n>
+        <n>- No puede contener espacios.</n></string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+</resources>
